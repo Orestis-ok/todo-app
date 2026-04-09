@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Μαθηματα",
+    "done": false,
+    "priority": "Low",
+    "due_date": "Tomorrow 18:00",
+    "streak": 1,
+    "created": "08/04/2026 16:03"
+  },
+  {
+    "title": "Πληροφορικη",
+    "done": true,
+    "priority": "High",
+    "due_date": "Tomorrow 18:00",
+    "streak": 1,
+    "created": "08/04/2026 16:03"
+  }
+]
